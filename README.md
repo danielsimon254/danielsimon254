@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 DevOPS Engineer<br>👯 Cloud Engineer
+🔭 DevOPS Engineer<br>👯 Systems/Cloud Engineer
 
 
 # 💻 Tech Stack:
